@@ -8,12 +8,6 @@
         "networkInterfaceName": {
             "value": "linuxvm792"
         },
-        "networkSecurityGroupName": {
-            "value": "LinuxVM-nsg"
-        },
-        "resourceGroupDeployment": {
-            "value": "axapoc"
-        },
         "networkSecurityGroupRules": {
             "value": [
                 {
