@@ -11,6 +11,9 @@
         "networkSecurityGroupName": {
             "value": "LinuxVM-nsg"
         },
+        "ResourceGroupDeployment": {
+            "value": "AXAPOC"
+        },
         "networkSecurityGroupRules": {
             "value": [
                 {
